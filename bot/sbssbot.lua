@@ -250,7 +250,7 @@ function create_config( )
     Manager:
     @yellowhat
     Founder:
-    @amirho3in
+    @farshadfarokhzadeh
     
     Special Thank To:
     Mehr Pouya
